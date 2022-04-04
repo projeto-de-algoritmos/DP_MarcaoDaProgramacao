@@ -30,12 +30,17 @@ Atualmente João e Gabriela estão aplicando para um estágio na empresa de Marc
 (Dynamic Programming). E para fins organizacionais a dupla decidiu colocar os códigos dos problemas resolvidos no github.
 
 ## Screenshots
+
 Aqui observamos o Tux(mascote do Linux) se relacionando 
 harmonicamente com o sistema operacional Windows.
+
 ![linux mascote](img/tux.jpg)
+
 Abaixo podemos ver como Linus teve calma e tranquilidade com
 a empresa que fez o driver de impressora de baixa qualidade.
+
 ![linux](img/linux.jpg)
+
 ## Instalação 
 **Linguagem**: C | C++<br>
 
