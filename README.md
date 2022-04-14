@@ -9,6 +9,7 @@
 | 18/0033620  |  João Henrique C. Paulino |
 | 18/0052845  |  Gabriela da Gama Pivetta |
 
+Link: [Video](https://drive.google.com/file/d/1jdZeoWjYGzuG1YR5CK4kjoWR6lqn6PKt/view?usp=sharing)
 
 ## Sobre 
 Marcão é um engenheiro de software que se formou na UNB no ano de 1992. Um ano antes um jovem finlandês chamado Linus Torvalds decidiu
